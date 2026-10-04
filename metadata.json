@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Thi Đua Lớp 6A3",
+  "description": "Hệ thống quản lý nề nếp thi đua thông minh, chấm điểm cờ đỏ và gamification cho lớp 6A3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
